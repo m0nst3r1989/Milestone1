@@ -3,3 +3,5 @@ name- Edgar Gonzalez Jr
 date- 9/18/2022
 
 assignment title- Milestone 1
+
+Inventory can be anything depending on the store. For my project I picked inventory of a warehouse for electronic components. This is useful because in a warehouse you can store hundreds of things in different locations. If you need something to complete a project you will need find the item as soon as you need them. So using this inventory finder we will be input the exact item needed and it will tell us the location of it. An example of what I have stored in my inventory are fuses, solder, and batteries. The most important item stored in our inventory is the components like resistors, ICs, and capacitors, without these we cannot complete any boards for our products. If we do not complete items in time we will have customers who are not happy with us.
